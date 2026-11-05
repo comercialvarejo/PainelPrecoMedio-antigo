@@ -158,4 +158,3 @@ Depois acesse <http://localhost:8080>.
 - **Privacidade:** os dados ficam no arquivo JSON do repositório. Em repositório público, qualquer pessoa com o endereço consegue vê-los. Para uso interno, prefira repositório privado (requer plano Team/Enterprise para o Pages) ou outra hospedagem com senha.
 - **Preferências locais:** tema claro/escuro, favoritos, alertas dispensados e decisões registradas ficam salvos no próprio navegador de cada usuário (`localStorage`), não no repositório.
 - **Importação de Excel** (aba *Gestão 360*) usa a biblioteca SheetJS via CDN; essa função específica precisa de internet na primeira vez.
-
